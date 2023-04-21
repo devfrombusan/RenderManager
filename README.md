@@ -15,7 +15,7 @@ OpenGL 그래픽 API와 Android Studio를 활용하여 앱 제작시 그래픽�
 - OpenGL를 활용하여 최적화 랜더링을 구현하도록 설계된 코드가 작성되어 있습니다
 
 3. RenderManagerTest/app/src/main/cpp/SampleScene
--
+- https://github.com/devfrombusan/RenderManager/tree/main/RenderManagerTest/app/src/main/cpp/SampleScene
 - 간단하게 RenderManager 클래스를 활용하여 랜더링을 테스트를 진행합니다
 
 4. RenderManagerTest/app/src/main/cpp/Tools
