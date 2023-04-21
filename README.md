@@ -25,11 +25,7 @@ OpenGL과 Android Studio를 활용하여 안드로이드 환경에서 게임 및
 <br/>
 <br/>
 
-실제로 현 프로젝트를 활용하여 간단한 게임을 구현하였습니다
-<br/>
-(구글 API활용 등) 단순 테스트 용으로 만든 게임입니다
-
-<br/>
+실제로 현 프로젝트를 활용하여 간단한 게임을 구현하였습니다 (구글 API활용 등) 단순 테스트 용으로 만든 게임입니다
 <br/>
 
 https://play.google.com/store/apps/details?id=com.devnim.android.changecolorspuzzle
