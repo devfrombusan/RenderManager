@@ -34,7 +34,7 @@ OpenGL과 Android Studio를 활용하여 안드로이드 환경에서 게임 및
 
 https://play.google.com/store/apps/details?id=com.devnim.android.changecolorspuzzle
 <br/>
-RenderManager의 Layer 클래스를 기반으로 텍스처아틀라스 하나로 실제 드로우콜이 한번만 일어나는지 테스트 
+RenderManager의 Layer 클래스를 기반으로 텍스처아틀라스 하나로 실제 드로우콜이 한번만 일어나는지 테스트 하였습니다
 <br/>
 <br/>
 https://play.google.com/store/apps/details?id=com.devnim.android.dopong_free
