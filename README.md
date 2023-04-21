@@ -19,7 +19,7 @@ OpenGL 그래픽 API와 Android Studio를 활용하여 앱 제작시 그래픽�
 - 간단하게 RenderManager 클래스를 활용하여 랜더링을 테스트를 진행합니다
 
 4. RenderManagerTest/app/src/main/cpp/Tools
--
+- https://github.com/devfrombusan/RenderManager/tree/main/RenderManagerTest/app/src/main/cpp/Tools
 - 수학 연산에 사용된 함수들을 정의하였습니다
 
 5. RenderManagerTest\app\src\main\java\com\example\android\RenderManagerTest
