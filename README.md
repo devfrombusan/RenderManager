@@ -30,19 +30,6 @@ OpenGL 그래픽 API와 Android Studio를 활용하여 앱 제작시 그래픽�
 <br/>
 <br/>
 
-실제로 현 프로젝트를 활용하여 간단한 게임을 구현하였습니다. 단순 테스트 용으로 만든 게임입니다
-<br/>
-
-https://play.google.com/store/apps/details?id=com.devnim.android.changecolorspuzzle
-<br/>
-RenderManager의 Layer 클래스를 기반으로 텍스처아틀라스 하나로 실제 드로우콜이 한번만 일어나는지 테스트 하였습니다
-<br/>
-<br/>
-https://play.google.com/store/apps/details?id=com.devnim.android.dopong_free
-<br/>
-RenderManager의 Collider 클래스를 기반으로 충돌 테스트를 진행하였으며 코사인을 활용한 진자운동을 공의 탄력성에 적용하였습니다
-<br/>
-<br/>
 RenderManager는 다양한 클래스로 구성되어 있습니다
 <br/>
 1. RenderManager
@@ -76,5 +63,19 @@ RenderManager는 다양한 클래스로 구성되어 있습니다
 - AABB, OBB의 벽뚫기를 방지하기 위해 연구된 충돌연산을 담당하는 클래스입니다
 - 벡터연산을 사용해서 nPn 연산을 최소화 하고 Timedelta와 같은 프레임연산에 적합하도록 계산됩니다
 - UDP방식에서 발생하는 지연현상에도 시간에 상관없이 단 한번만 연산을 수행합니다
+<br/>
+<br/>
+
+실제로 현 프로젝트를 활용하여 간단한 게임을 구현하였습니다. 단순 테스트 용으로 만든 게임입니다
+<br/>
+
+https://play.google.com/store/apps/details?id=com.devnim.android.changecolorspuzzle
+<br/>
+RenderManager의 Layer 클래스를 기반으로 텍스처아틀라스 하나로 실제 드로우콜이 한번만 일어나는지 테스트 하였습니다
+<br/>
+<br/>
+https://play.google.com/store/apps/details?id=com.devnim.android.dopong_free
+<br/>
+RenderManager의 Collider 클래스를 기반으로 충돌 테스트를 진행하였으며 코사인을 활용한 진자운동을 공의 탄력성에 적용하였습니다
 <br/>
 <br/>
