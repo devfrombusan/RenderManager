@@ -45,6 +45,7 @@ RenderManager는 다양한 클래스로 구성되어 있습니다
 - 변환된 벡터는 각각 코사인 유사도를 사용해서 충돌 연산을 수행할 수 있습니다
 - 유니티의 Material과 유사한 동작을 합니다. 유니티에서 사용되는 번거로운 sharedMaterial을 설정하지 않습니다
 - 4개의 버텍스를 담도록 최적화 되어 있기 때문에 drawElements가 아닌 drawArrays를 사용합니다
+- Layer가 가진 orthographic은 각 메쉬를 해당 orthographic 값으로 그려지도록 합니다(10.0f의 경우 그 범위를 기준으로 그림)
 
 3. Object
 - 메쉬 데이터를 담고 실제로 업데이트 스레드와 상호작용을 합니다
