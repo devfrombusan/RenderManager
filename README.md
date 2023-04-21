@@ -8,7 +8,7 @@ OpenGL 그래픽 API와 Android Studio를 활용하여 앱 제작시 그래픽�
 
 1. RenderManagerTest/app/src/main/cpp/Jni
 <br/>
-https://github.com/devfrombusan/RenderManager/tree/main/RenderManagerTest/app/src/main/cpp/Jni
+- https://github.com/devfrombusan/RenderManager/tree/main/RenderManagerTest/app/src/main/cpp/Jni
 <br/>
 - 안드로이드 환경에서 Java와 통신하기 위한 코드가 작성되어 있습니다
 
