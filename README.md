@@ -23,7 +23,7 @@ OpenGL 그래픽 API와 Android Studio를 활용하여 앱 제작시 그래픽�
 - 수학 연산에 사용된 함수들을 정의하였습니다
 
 5. RenderManagerTest\app\src\main\java\com\example\android\RenderManagerTest
--
+- https://github.com/devfrombusan/RenderManager/tree/main/RenderManagerTest/app/src/main/java/com/example/android/RenderManagerTest
 - 안드로이드 환경에서 수행해야 할 Java코드가 작성되어 있습니다
 
 
