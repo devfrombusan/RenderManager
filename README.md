@@ -71,16 +71,3 @@ RenderManager는 다양한 클래스로 구성되어 있습니다
 <br/>
 <br/>
 
-실제로 현 프로젝트를 활용하여 간단한 게임을 구현하였습니다. 단순 테스트 용으로 만든 게임입니다. 사용된 에셋과 아이디어는 지인들의 참고로 제작되었습니다.
-<br/>
-
-https://play.google.com/store/apps/details?id=com.devnim.android.changecolorspuzzle
-<br/>
-RenderManager의 Layer 클래스를 기반으로 텍스처아틀라스 하나로 실제 드로우콜이 한번만 일어나는지 테스트 하였습니다
-<br/>
-<br/>
-https://play.google.com/store/apps/details?id=com.devnim.android.dopong_free
-<br/>
-RenderManager의 Collider 클래스를 기반으로 충돌 테스트를 진행하였으며 코사인을 활용한 진자운동을 공의 탄력성에 적용하였습니다
-<br/>
-<br/>
